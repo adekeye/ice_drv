@@ -1,7 +1,7 @@
 obj-m += file.o
 
 #CC=gcc
-#KDIR = /usr/src/linux-headers-4.15.0-51-generic
+#KDIR = /usr/src/linux-headers-4.15.0-45-generic
 #KASAN_FLAG := -fsanitize=kernel-address
 #SUBDIRS = $(PWD)
 all:
